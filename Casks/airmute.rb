@@ -1,5 +1,5 @@
 cask "airmute" do
-    depends_on macos: ">= :sonoma"
+    depends_on macos: :sonoma
 
     version "2.4.6"
     sha256 "f2eeb174db00665eaa3ad69e6966f6215cc04ea635430e472d5842095ef56fc7"
