@@ -1,8 +1,8 @@
 cask "airmute" do
     depends_on macos: :sonoma
 
-    version "2.4.6"
-    sha256 "f2eeb174db00665eaa3ad69e6966f6215cc04ea635430e472d5842095ef56fc7"
+    version "2.5.0"
+    sha256 "cdf796029e616b3c0d3071603a0a9acbcb3a553711711a3979173610255292fb"
     url "https://github.com/Solarphlare/AirMute/releases/download/v#{version}/AirMute.dmg"
     name "AirMute"
     desc "Mute your mic in Discord on Mac with your AirPods."
